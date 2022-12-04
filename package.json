@@ -62,7 +62,16 @@
         "totp-generator": "",
         "wikijs": "",
         "ytdl-core": "",
-        "sqlite3": ""  
+        "sqlite3": "" ,
+		"imgur": "", "tiktok-down": "","fluent-ffmpeg": "",
+		"form-data": "",
+		"form-urlencoded": "",
+		"fs": "",
+		"fs-extra": "",
+		"gifencoder": "",
+		"helyt": "",
+		"https-proxy-agent": "",
+		"image-downloader": ""
     },
     "bugs": {
         "url": "https://github.com/quyenkaneki/miraibot/issues"
